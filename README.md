@@ -1,6 +1,6 @@
-##WEEK 3##
+# WEEK 3
 
-#EXERCISE 3 - JavaScript Basics Part 1#
+**EXERCISE 3 - JavaScript Basics Part 1**
 
 NAME: JACOB GABRIEL L. ARIAS
 
